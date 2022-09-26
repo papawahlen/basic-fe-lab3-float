@@ -1,0 +1,30 @@
+.main{
+    width:1400px;
+    height: 900px;
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+}
+.img_1{
+    width:100%;
+    height:200px;
+    background-color: blueviolet;
+}
+.text_1{
+    width:50%;
+    height:500px;
+    background-color: burlywood;
+    float:left;
+}
+.text_2{
+    width:50%;
+    height:500px;
+    background-color: cornflowerblue;
+    float:right;
+}
+.img_2{
+    width:100%;
+    height: 200px;
+    background-color: darkseagreen;
+    margin-top: 500px;
+}
